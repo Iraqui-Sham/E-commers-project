@@ -1,0 +1,1267 @@
+{
+  "maincategory": [
+    {
+      "id": "e093",
+      "name": "Male",
+      "pic": "/maincategory/m1.jpg",
+      "active": true
+    },
+    {
+      "id": "9102",
+      "name": "Female",
+      "pic": "/maincategory/m8.jpg",
+      "active": true
+    },
+    {
+      "id": "0cdd",
+      "name": "Kids",
+      "pic": "/maincategory/m11.jpg",
+      "active": true
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "6481",
+      "name": "Shirt",
+      "pic": "/subcategory/f2.jpg",
+      "active": true
+    },
+    {
+      "id": "a289",
+      "name": "Denim",
+      "pic": "/subcategory/f5.jpg",
+      "active": true
+    },
+    {
+      "id": "3603",
+      "name": "Jeans ",
+      "pic": "/subcategory/f4.jpg",
+      "active": true
+    }
+  ],
+  "brand": [
+    {
+      "id": "1f9c",
+      "name": "Nike",
+      "pic": "/brand/b2.jpg",
+      "active": true
+    },
+    {
+      "id": "215b",
+      "name": "Adidas",
+      "pic": "/brand/b4.jpg",
+      "active": true
+    },
+    {
+      "id": "4b7f",
+      "name": "Adidas White Shoe",
+      "pic": "/brand/b24.jpg",
+      "active": true
+    },
+    {
+      "id": "904a",
+      "name": "Rolex",
+      "pic": "/brand/p5.jpg",
+      "active": true
+    },
+    {
+      "id": "d363",
+      "name": "FILA",
+      "pic": "/brand/b6.jpg",
+      "active": true
+    },
+    {
+      "id": "b5c1",
+      "name": "Denmark",
+      "pic": "/brand/b5.jpg",
+      "active": true
+    },
+    {
+      "id": "8279",
+      "name": "GUCCI",
+      "pic": "/brand/b12.jpg",
+      "active": true
+    },
+    {
+      "id": "3fd3",
+      "name": "Honex",
+      "pic": "/brand/b11.jpg",
+      "active": true
+    },
+    {
+      "id": "5d1d",
+      "name": "Sparky",
+      "pic": "/brand/b17.jpg",
+      "active": true
+    },
+    {
+      "id": "ee54",
+      "name": "Zara",
+      "pic": "/brand/b19.jpg",
+      "active": true
+    },
+    {
+      "id": "f542",
+      "name": "RADO",
+      "pic": "/brand/p3.jpg",
+      "active": true
+    }
+  ],
+  "product": [
+    {
+      "id": "a80d",
+      "name": "Male Blazers",
+      "maincategory": "Male",
+      "subcategory": "Denim",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "38",
+      "basePrice": 2449,
+      "discount": 20,
+      "finalPrice": 1959,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/m1.jpg",
+        "/product/m26.jpg",
+        "/product/m13.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>\n<br /></p>"
+    },
+    {
+      "id": "b692",
+      "name": "Female Huddy",
+      "maincategory": "Female",
+      "subcategory": "Huddy",
+      "brand": "Denmark",
+      "color": "yellow",
+      "size": "38",
+      "basePrice": 2448,
+      "discount": 20,
+      "finalPrice": 1958,
+      "stock": true,
+      "stockQuantity": 6,
+      "active": true,
+      "pic": [
+        "/product/f11.jpg",
+        "/product/f12.jpg",
+        "/product/f13.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>\n<br /></p>"
+    },
+    {
+      "id": "1169",
+      "name": "Kids Jeans",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Sparky",
+      "color": "Black",
+      "size": "20",
+      "basePrice": 1550,
+      "discount": 25,
+      "finalPrice": 1162,
+      "stock": true,
+      "stockQuantity": 18,
+      "active": true,
+      "pic": [
+        "/product/k3.jpg",
+        "/product/b26.jpg"
+      ],
+      "description": "<p>\n\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</span>\n<br /></p>"
+    },
+    {
+      "id": "e939",
+      "name": "Jeans Dark",
+      "maincategory": "Male",
+      "subcategory": "Denim",
+      "brand": "Rolex",
+      "color": "gray",
+      "size": "50",
+      "basePrice": 2300,
+      "discount": 40,
+      "finalPrice": 1380,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/b16.jpg",
+        "/product/b17.jpg",
+        "/product/b18.jpg",
+        "/product/b19.jpg"
+      ],
+      "description": "<p>\n\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p><br class=\"Apple-interchange-newline\" />\n<br /></p>"
+    },
+    {
+      "id": "a91d",
+      "name": "Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Honex",
+      "color": "white",
+      "size": "30",
+      "basePrice": 1200,
+      "discount": 9,
+      "finalPrice": 1092,
+      "stock": true,
+      "stockQuantity": 12,
+      "active": true,
+      "pic": [
+        "/product/b13.jpg",
+        "/product/b14.jpg",
+        "/product/m6.jpg",
+        "/product/m7.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "9739",
+      "name": "Female Shirt",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Nike",
+      "color": "white",
+      "size": "30",
+      "basePrice": 1200,
+      "discount": 9,
+      "finalPrice": 1092,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/f5.jpg",
+        "/product/f6.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "7ced",
+      "name": "Jeans Dark",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Nike",
+      "color": "red",
+      "size": "34",
+      "basePrice": 2100,
+      "discount": 20,
+      "finalPrice": 1680,
+      "stock": true,
+      "stockQuantity": 23,
+      "active": true,
+      "pic": [
+        "/product/f1.jpg",
+        "/product/f2.jpg",
+        "/product/f3.jpg"
+      ],
+      "description": "<p>\n\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p><br class=\"Apple-interchange-newline\" />\n<br /></p>"
+    },
+    {
+      "id": "1b85",
+      "name": "Male Raugh Style  Denim",
+      "maincategory": "Male",
+      "subcategory": "Denim",
+      "brand": "Zara",
+      "color": "dark",
+      "size": "34",
+      "basePrice": 2700,
+      "discount": 24,
+      "finalPrice": 2052,
+      "stock": true,
+      "stockQuantity": 9,
+      "active": true,
+      "pic": [
+        "/product/b18.jpg",
+        "/product/b19.jpg",
+        "/product/b5.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "1afd",
+      "name": "Men Simple Denim",
+      "maincategory": "Male",
+      "subcategory": "Denim",
+      "brand": "Nike",
+      "color": "Blue",
+      "size": "30",
+      "basePrice": 2300,
+      "discount": 19,
+      "finalPrice": 1863,
+      "stock": true,
+      "stockQuantity": 14,
+      "active": true,
+      "pic": [
+        "/product/b3.jpg",
+        "/product/m23.jpg",
+        "/product/b19.jpg",
+        "/product/m15.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "d012",
+      "name": "Female Simple Denim",
+      "maincategory": "Female",
+      "subcategory": "Denim",
+      "brand": "Sparky",
+      "color": "Black",
+      "size": "30",
+      "basePrice": 2300,
+      "discount": 19,
+      "finalPrice": 1863,
+      "stock": true,
+      "stockQuantity": 14,
+      "active": true,
+      "pic": [
+        "/product/f14.jpg",
+        "/product/f5.jpg",
+        "/product/f19.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "f68a",
+      "name": "Female Raugh Design Denim",
+      "maincategory": "Female",
+      "subcategory": "Denim",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "30",
+      "basePrice": 2498,
+      "discount": 19,
+      "finalPrice": 2023,
+      "stock": true,
+      "stockQuantity": 14,
+      "active": true,
+      "pic": [
+        "/product/f4.jpg",
+        "/product/f5.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "97b7",
+      "name": "Men Jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Honex",
+      "color": "Black",
+      "size": "38",
+      "basePrice": 4100,
+      "discount": 24,
+      "finalPrice": 3116,
+      "stock": true,
+      "stockQuantity": 4,
+      "active": true,
+      "pic": [
+        "/product/m27.jpg",
+        "/product/m28.jpg",
+        "/product/ivan-bogdanov-17qC7l19hMI-unsplash.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "29fd",
+      "name": "Men Raugh Style Jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Sparky",
+      "color": "Blue",
+      "size": "36",
+      "basePrice": 4300,
+      "discount": 24,
+      "finalPrice": 3268,
+      "stock": true,
+      "stockQuantity": 12,
+      "active": true,
+      "pic": [
+        "/product/p14.jpg",
+        "/product/p16.jpg",
+        "/product/ivan-bogdanov-17qC7l19hMI-unsplash.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\r\n<br />"
+    },
+    {
+      "id": "4451",
+      "name": "Men Simple Jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Honex",
+      "color": "Blue",
+      "size": "36",
+      "basePrice": 4300,
+      "discount": 24,
+      "finalPrice": 3268,
+      "stock": true,
+      "stockQuantity": -1,
+      "active": true,
+      "pic": [
+        "/product/b16.jpg",
+        "/product/b17.jpg",
+        "/product/b26.jpg"
+      ],
+      "description": "<p>\n\n</p>\r\n\n\r\n<p style=\"margin: 0px 0px 15px; text-align: justify; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255)\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\r\n\n\r\n<br class=\"Apple-interchange-newline\" />\r\n\n\n\n\r\n<br />"
+    },
+    {
+      "id": "0683",
+      "name": "Sweater",
+      "maincategory": "Kids",
+      "subcategory": "Sweater",
+      "brand": "Zara",
+      "color": "Navy Blue",
+      "size": "s",
+      "basePrice": 1200,
+      "discount": 14,
+      "finalPrice": 1032,
+      "stock": true,
+      "stockQuantity": 11,
+      "active": true,
+      "pic": [
+        "/product/k11.jpg",
+        "/product/k12.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publi</span>\n<br /></p>"
+    },
+    {
+      "id": "29f8",
+      "name": "Kids T-Shirt",
+      "maincategory": "Kids",
+      "subcategory": "Half Shirt",
+      "brand": "Honex",
+      "color": "white",
+      "size": "22",
+      "basePrice": 1700,
+      "discount": 29,
+      "finalPrice": 1207,
+      "stock": true,
+      "stockQuantity": 19,
+      "active": true,
+      "pic": [
+        "/product/k.jpg",
+        "/product/k1.jpg",
+        "/product/k8.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publi</span>\n<br /></p>"
+    },
+    {
+      "id": "04e0",
+      "name": "Female Lahanga",
+      "maincategory": "Female",
+      "subcategory": "Lahanga",
+      "brand": "RADO",
+      "color": "Red",
+      "size": "34",
+      "basePrice": 5800,
+      "discount": 29,
+      "finalPrice": 4118,
+      "stock": true,
+      "stockQuantity": 15,
+      "active": true,
+      "pic": [
+        "/product/f7.jpg",
+        "/product/f17.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publi</span>\n<br /></p>"
+    },
+    {
+      "id": "0abb",
+      "name": "Female Frock",
+      "maincategory": "Female",
+      "subcategory": "Frock",
+      "brand": "FILA",
+      "color": "Yellow",
+      "size": "34",
+      "basePrice": 3700,
+      "discount": 20,
+      "finalPrice": 2960,
+      "stock": true,
+      "stockQuantity": 9,
+      "active": true,
+      "pic": [
+        "/product/f18.jpg",
+        "/product/f16.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publi</span>\n<br /></p>"
+    },
+    {
+      "id": "e1eb",
+      "name": "Kids Frock",
+      "maincategory": "Kids",
+      "subcategory": "Frock",
+      "brand": "Zara",
+      "color": "white",
+      "size": "20",
+      "basePrice": 2200,
+      "discount": 25,
+      "finalPrice": 1650,
+      "stock": true,
+      "stockQuantity": 12,
+      "active": true,
+      "pic": [
+        "/product/k6.jpg",
+        "/product/k10.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publi</span>\n<br /></p>"
+    },
+    {
+      "id": "7862",
+      "name": "Male Shoe",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "FILA",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 2200,
+      "discount": 20,
+      "finalPrice": 1760,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/b8.jpg",
+        "/product/b9.jpg",
+        "/product/b10.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publi</span>\n<br /></p>"
+    },
+    {
+      "id": "f5c5",
+      "name": "Female Shoe",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 2200,
+      "discount": 20,
+      "finalPrice": 1760,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/b1.jpg",
+        "/product/b2.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "86a3",
+      "name": "Kids Shoe",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 2200,
+      "discount": 20,
+      "finalPrice": 1760,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/b24.jpg",
+        "/product/b25.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "eb6e",
+      "name": "Female shop",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Honex",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 2200,
+      "discount": 20,
+      "finalPrice": 1760,
+      "stock": true,
+      "stockQuantity": 10,
+      "active": true,
+      "pic": [
+        "/product/f1.jpg",
+        "/product/f2.jpg",
+        "/product/f3.jpg",
+        "/product/f4.jpg",
+        "/product/f5.jpg",
+        "/product/f6.jpg",
+        "/product/f7.jpg",
+        "/product/f8.jpg",
+        "/product/f9.jpg",
+        "/product/f10.jpg",
+        "/product/f11.jpg",
+        "/product/f12.jpg",
+        "/product/f13.jpg",
+        "/product/f14.jpg",
+        "/product/f15.jpg",
+        "/product/f16.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem I</span>\n<br /></p>"
+    },
+    {
+      "id": "350b",
+      "name": "ladies",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Sparky",
+      "color": "Red",
+      "size": "22",
+      "basePrice": 1700,
+      "discount": 29,
+      "finalPrice": 1207,
+      "stock": true,
+      "stockQuantity": 19,
+      "active": true,
+      "pic": [
+        "/product/m20.jpg",
+        "/product/m21.jpg",
+        "/product/m22.jpg",
+        "/product/m23.jpg",
+        "/product/m24.jpg",
+        "/product/m25.jpg",
+        "/product/m26.jpg",
+        "/product/m27.jpg",
+        "/product/m28.jpg",
+        "/product/p3.jpg",
+        "/product/p5.jpg",
+        "/product/p8.jpg"
+      ],
+      "description": "<p>\n\n<strong style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem Ipsum</strong><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\"><span>&nbsp;</span>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem I</span>\n<br /></p>"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "6ad7",
+      "name": "Kids Jacket",
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lore",
+      "pic": "/testimonial/k5.jpg",
+      "active": true
+    },
+    {
+      "id": "c50a",
+      "name": "Kids Aweater",
+      "message": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here",
+      "pic": "/testimonial/k9.jpg",
+      "active": false
+    },
+    {
+      "id": "0ccc",
+      "name": "Girl Red Frock",
+      "message": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of ",
+      "pic": "/testimonial/k6.jpg",
+      "active": true
+    },
+    {
+      "id": "081c",
+      "name": "Girl Frock",
+      "message": "he standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are alseproduced in their exact original form, accompanied by English versions from the 1914 translation by H",
+      "pic": "/testimonial/k10.jpg",
+      "active": true
+    },
+    {
+      "id": "c94b",
+      "name": "Kids Huddy",
+      "message": "If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated -click here to donate using PayPal. Thank you",
+      "pic": "/testimonial/k7.jpg",
+      "active": true
+    }
+  ],
+  "user": [
+    {
+      "name": "Hashmi",
+      "phone": "9110112197",
+      "address": "A-43 sector 16 Noida India",
+      "pin": "201224",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "id": "71dd",
+      "username": "hash",
+      "email": "kaifiraqui123@gmail.com",
+      "password": "Hash@123",
+      "role": "Admin",
+      "pic": "/product/henri-meilhac-1iCe-luOoQ4-unsplash.jpg"
+    },
+    {
+      "name": "Nikhat Jahan",
+      "phone": "9110112197",
+      "address": "Noida sector 16 , Ducat India , Maharishi university , pin-code - 845412",
+      "pin": "845412",
+      "city": "motihari",
+      "state": "bihar",
+      "id": "5422",
+      "username": "Nikhat",
+      "email": "nikhat@123gmail.com",
+      "password": "Nik@123",
+      "role": "Buyer",
+      "pic": "/product/f2.jpg"
+    },
+    {
+      "id": "6676",
+      "name": "Shamsher alam",
+      "username": "Sham",
+      "email": "alammdshamsher956@gmail.com",
+      "phone": "9570393060",
+      "password": "Sham@123",
+      "role": "Buyer"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "146f",
+      "email": "kaifiraqui123@gmail.com",
+      "active": true
+    },
+    {
+      "id": "7fae",
+      "email": "deep123@gmail.com",
+      "active": true
+    },
+    {
+      "id": "2d15",
+      "email": "nikhat@123gmail.com",
+      "active": false
+    },
+    {
+      "id": "e935",
+      "email": "khush735265@gmail.com",
+      "active": true
+    }
+  ],
+  "cart": [
+    {
+      "id": "5670",
+      "user": null,
+      "product": "0683",
+      "name": "Sweater",
+      "brand": "Zara",
+      "color": "Navy Blue",
+      "size": "s",
+      "price": 1032,
+      "stockQuantity": 12,
+      "pic": "/product/k11.jpg",
+      "qty": 1,
+      "total": 1032
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "82e6",
+      "user": "5422",
+      "product": "7ced",
+      "name": "Jeans Dark",
+      "brand": "Nike",
+      "color": "red",
+      "size": "34",
+      "price": 1680,
+      "stockQuantity": 23,
+      "pic": "/product/f1.jpg"
+    },
+    {
+      "id": "0ac5",
+      "user": "5422",
+      "product": "1b85",
+      "name": "Male Raugh Style  Denim",
+      "brand": "Zara",
+      "color": "dark",
+      "size": "34",
+      "price": 2052,
+      "stockQuantity": 10,
+      "pic": "/product/b18.jpg"
+    },
+    {
+      "id": "04c8",
+      "user": null,
+      "product": "0683",
+      "name": "Sweater",
+      "brand": "Zara",
+      "color": "Navy Blue",
+      "size": "s",
+      "price": 1032,
+      "stockQuantity": 12,
+      "pic": "/product/k11.jpg"
+    },
+    {
+      "id": "b7a2",
+      "user": "5422",
+      "product": "1169",
+      "name": "Kids Jeans",
+      "brand": "Sparky",
+      "color": "Black",
+      "size": "20",
+      "price": 1162,
+      "stockQuantity": 20,
+      "pic": "/product/k3.jpg"
+    },
+    {
+      "id": "5b24",
+      "user": "6676",
+      "product": "b692",
+      "name": "Female Huddy",
+      "brand": "Denmark",
+      "color": "yellow",
+      "size": "38",
+      "price": 1958,
+      "stockQuantity": 7,
+      "pic": "/product/f11.jpg"
+    },
+    {
+      "id": "dd97",
+      "user": "71dd",
+      "product": "9739",
+      "name": "Female Shirt",
+      "brand": "Nike",
+      "color": "white",
+      "size": "30",
+      "price": 1092,
+      "stockQuantity": 11,
+      "pic": "/product/f5.jpg"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "568c",
+      "user": "5422",
+      "orderStatus": "Order is Ready to Ship",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 8880,
+      "shipping": 0,
+      "total": 8880,
+      "date": "2025-01-09T17:04:01.612Z",
+      "products": [
+        {
+          "id": "47b6",
+          "user": "5422",
+          "product": "0abb",
+          "name": "Female Frock",
+          "brand": "FILA",
+          "color": "Yellow",
+          "size": "34",
+          "price": 2960,
+          "stockQuantity": 12,
+          "pic": "/product/f18.jpg",
+          "qty": 3,
+          "total": 8880
+        }
+      ]
+    },
+    {
+      "id": "a299",
+      "user": "5422",
+      "orderStatus": "Order is Out for Delivery",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 6972,
+      "shipping": 0,
+      "total": 6972,
+      "date": "2025-01-09T17:08:35.986Z",
+      "products": [
+        {
+          "id": "eb0e",
+          "user": "5422",
+          "product": "1169",
+          "name": "Kids Jeans",
+          "brand": "Sparky",
+          "color": "Black",
+          "size": "20",
+          "price": 1162,
+          "stockQuantity": 26,
+          "pic": "/product/k3.jpg",
+          "qty": 6,
+          "total": 6972
+        }
+      ]
+    },
+    {
+      "id": "ca71",
+      "user": "5422",
+      "orderStatus": "Order is Ready to Ship",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 39216,
+      "shipping": 0,
+      "total": 39216,
+      "date": "2025-01-09T17:13:02.740Z",
+      "products": [
+        {
+          "id": "19a3",
+          "user": "5422",
+          "product": "4451",
+          "name": "Men Simple Jeans",
+          "brand": "Honex",
+          "color": "Blue",
+          "size": "36",
+          "price": 3268,
+          "stockQuantity": 12,
+          "pic": "/product/b16.jpg",
+          "qty": 12,
+          "total": 39216
+        }
+      ]
+    },
+    {
+      "id": "d20f",
+      "user": "5422",
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 1958,
+      "shipping": 0,
+      "total": 1958,
+      "date": "2025-01-09T17:16:23.168Z",
+      "products": [
+        {
+          "id": "ab5f",
+          "user": "5422",
+          "product": "b692",
+          "name": "Female Huddy",
+          "brand": "Denmark",
+          "color": "yellow",
+          "size": "38",
+          "price": 1958,
+          "stockQuantity": 10,
+          "pic": "/product/f11.jpg",
+          "qty": 1,
+          "total": 1958
+        }
+      ]
+    },
+    {
+      "id": "7f68",
+      "user": "5422",
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 1958,
+      "shipping": 0,
+      "total": 1958,
+      "date": "2025-01-12T13:12:42.860Z",
+      "products": [
+        {
+          "id": "bf9c",
+          "user": "5422",
+          "product": "b692",
+          "name": "Female Huddy",
+          "brand": "Denmark",
+          "color": "yellow",
+          "size": "38",
+          "price": 1958,
+          "stockQuantity": 9,
+          "pic": "/product/f11.jpg",
+          "qty": 1,
+          "total": 1958
+        }
+      ]
+    },
+    {
+      "id": "8767",
+      "user": null,
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 1958,
+      "shipping": 0,
+      "total": 1958,
+      "date": "2025-01-15T16:38:38.373Z",
+      "products": [
+        {
+          "id": "ae67",
+          "user": null,
+          "product": "b692",
+          "name": "Female Huddy",
+          "brand": "Denmark",
+          "color": "yellow",
+          "size": "38",
+          "price": 1958,
+          "stockQuantity": 8,
+          "pic": "/product/f11.jpg",
+          "qty": 1,
+          "total": 1958
+        }
+      ]
+    },
+    {
+      "id": "400a",
+      "user": "5422",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1162,
+      "shipping": 0,
+      "total": 1162,
+      "date": "2025-01-15T16:51:34.290Z",
+      "products": [
+        {
+          "id": "8eb6",
+          "user": "5422",
+          "product": "1169",
+          "name": "Kids Jeans",
+          "brand": "Sparky",
+          "color": "Black",
+          "size": "20",
+          "price": 1162,
+          "stockQuantity": 20,
+          "pic": "/product/k3.jpg",
+          "qty": 1,
+          "total": 1162
+        }
+      ]
+    },
+    {
+      "id": "7b91",
+      "user": "5422",
+      "orderStatus": "Order is Out for Delivery",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 1032,
+      "shipping": 0,
+      "total": 1032,
+      "date": "2025-01-15T17:01:03.266Z",
+      "products": [
+        {
+          "id": "72e5",
+          "user": "5422",
+          "product": "0683",
+          "name": "Sweater",
+          "brand": "Zara",
+          "color": "Navy Blue",
+          "size": "s",
+          "price": 1032,
+          "stockQuantity": 12,
+          "pic": "/product/k11.jpg",
+          "qty": 1,
+          "total": 1032
+        }
+      ]
+    },
+    {
+      "id": "bc5f",
+      "user": "5422",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1380,
+      "shipping": 0,
+      "total": 1380,
+      "date": "2025-01-15T17:14:27.098Z",
+      "products": [
+        {
+          "id": "fa6a",
+          "user": "5422",
+          "product": "e939",
+          "name": "Jeans Dark",
+          "brand": "Rolex",
+          "color": "gray",
+          "size": "50",
+          "price": 1380,
+          "stockQuantity": 12,
+          "pic": "/product/b16.jpg",
+          "qty": 1,
+          "total": 1380
+        }
+      ]
+    },
+    {
+      "id": "bbb8",
+      "user": "5422",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 2052,
+      "shipping": 0,
+      "total": 2052,
+      "date": "2025-01-15T17:16:09.969Z",
+      "products": [
+        {
+          "id": "de41",
+          "user": "5422",
+          "product": "1b85",
+          "name": "Male Raugh Style  Denim",
+          "brand": "Zara",
+          "color": "dark",
+          "size": "34",
+          "price": 2052,
+          "stockQuantity": 10,
+          "pic": "/product/b18.jpg",
+          "qty": 1,
+          "total": 2052
+        }
+      ]
+    },
+    {
+      "id": "4f02",
+      "user": "6676",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 3050,
+      "shipping": 0,
+      "total": 3050,
+      "date": "2025-01-15T20:03:59.676Z",
+      "products": [
+        {
+          "id": "a237",
+          "user": "6676",
+          "product": "b692",
+          "name": "Female Huddy",
+          "brand": "Denmark",
+          "color": "yellow",
+          "size": "38",
+          "price": 1958,
+          "stockQuantity": 7,
+          "pic": "/product/f11.jpg",
+          "qty": 1,
+          "total": 1958
+        },
+        {
+          "id": "feb6",
+          "user": "6676",
+          "product": "9739",
+          "name": "Female Shirt",
+          "brand": "Nike",
+          "color": "white",
+          "size": "30",
+          "price": 1092,
+          "stockQuantity": 12,
+          "pic": "/product/f5.jpg",
+          "qty": 1,
+          "total": 1092
+        }
+      ]
+    },
+    {
+      "id": "0300",
+      "user": "6676",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 6384,
+      "shipping": 0,
+      "total": 6384,
+      "date": "2025-01-15T20:05:46.528Z",
+      "products": [
+        {
+          "id": "e055",
+          "user": "6676",
+          "product": "4451",
+          "name": "Men Simple Jeans",
+          "brand": "Honex",
+          "color": "Blue",
+          "size": "36",
+          "price": 3268,
+          "stockQuantity": 0,
+          "pic": "/product/b16.jpg",
+          "qty": 1,
+          "total": 3268
+        },
+        {
+          "id": "b22c",
+          "user": "6676",
+          "product": "97b7",
+          "name": "Men Jeans",
+          "brand": "Honex",
+          "color": "Black",
+          "size": "38",
+          "price": 3116,
+          "stockQuantity": 5,
+          "pic": "/product/m27.jpg",
+          "qty": 1,
+          "total": 3116
+        }
+      ]
+    },
+    {
+      "id": "7f89",
+      "user": "5422",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1162,
+      "shipping": 0,
+      "total": 1162,
+      "date": "2025-04-02T20:47:44.647Z",
+      "products": [
+        {
+          "id": "be74",
+          "user": "5422",
+          "product": "1169",
+          "name": "Kids Jeans",
+          "brand": "Sparky",
+          "color": "Black",
+          "size": "20",
+          "price": 1162,
+          "stockQuantity": 19,
+          "pic": "/product/k3.jpg",
+          "qty": 1,
+          "total": 1162
+        }
+      ]
+    },
+    {
+      "id": "8373",
+      "user": "71dd",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1092,
+      "shipping": 0,
+      "total": 1092,
+      "date": "2025-04-02T20:56:48.352Z",
+      "products": [
+        {
+          "id": "f9af",
+          "user": "71dd",
+          "product": "9739",
+          "name": "Female Shirt",
+          "brand": "Nike",
+          "color": "white",
+          "size": "30",
+          "price": 1092,
+          "stockQuantity": 11,
+          "pic": "/product/f5.jpg",
+          "qty": 1,
+          "total": 1092
+        }
+      ]
+    },
+    {
+      "id": "116e",
+      "user": "71dd",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "subtotal": 1380,
+      "shipping": 0,
+      "total": 1380,
+      "date": "2025-04-11T05:18:29.539Z",
+      "products": [
+        {
+          "id": "afd9",
+          "user": "71dd",
+          "product": "e939",
+          "name": "Jeans Dark",
+          "brand": "Rolex",
+          "color": "gray",
+          "size": "50",
+          "price": 1380,
+          "stockQuantity": 11,
+          "pic": "/product/b16.jpg",
+          "qty": 1,
+          "total": 1380
+        }
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": "a490",
+      "name": "Shamsher Alam",
+      "email": "alammdshamsher956@gmail.com",
+      "phone": "9110112197",
+      "subject": "This is Sample Shamsher Subject",
+      "message": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "active": false,
+      "date": "2025-01-13T18:17:46.817Z"
+    }
+  ]
+}
